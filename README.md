@@ -1,6 +1,6 @@
 ## Hi, I am Azat 👋
 
-🎓 I'm a Computer Science graduate from University of Manitoba 
+🎓 I'm a Computer Science graduate from University of Manitoba  
 💻 I love learning new tools and solving problems
 
 ### 💻 Tech I work with:
@@ -19,6 +19,6 @@
 TypeScript, Vite, GitHub Actions
 
 ## 📫 Contact
-📧 nurlanua@myumanitoba.ca
+📧 nurlanua@myumanitoba.ca  
 🔗 [LinkedIn](https://www.linkedin.com/in/azat-nurlan-uulu-589410154/)
 
